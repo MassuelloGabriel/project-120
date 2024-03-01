@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+h3{
+    font-size: 25px !important;
+}
+canvas{
+    border: 1px solid rgb(14, 153, 228);
+}
